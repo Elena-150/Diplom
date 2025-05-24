@@ -1,0 +1,33 @@
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Barlow, Open Sans, Lucida Grande, Helvetica Neue, Helvetica, Arial, Sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  width: 100%;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  position: fixed;
+  z-index: 999;
+}
+
+.main-container {
+  margin-top: 68px;
+  min-height: 100vh;
+}
+
+.footer {
+  margin-top: auto;
+  height: 100%;
+}
