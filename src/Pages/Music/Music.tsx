@@ -223,8 +223,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/a363a7b06089ccc1d7c86c8a4068be4f.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Don’t Say You Love Me</a>
-                                <div className="author_text"><a>Jin</a></div>
+                                <span>Don’t Say You Love Me</span>
+                                <div className="author_text"><span>Jin</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">rap</p>
                                     <p className="title-container__tag">bts</p>
@@ -237,8 +237,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/da82d173ad56390cc8bb8f173466012f.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Haegeum</a>
-                                <div className="author_text"><a>Agust D</a></div>
+                                <span>Haegeum</span>
+                                <div className="author_text"><span>Agust D</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">agustd</p>
                                     <p className="title-container__tag">haegeum</p>
@@ -251,8 +251,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/f19c148dc2502de161e9835f140a8114.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Seven (feat. Latto) (Explicit Ver.)</a>
-                                <div className="author_text"><a>Jung Kook</a></div>
+                                <span>Seven (feat. Latto) (Explicit Ver.)</span>
+                                <div className="author_text"><span>Jung Kook</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">pop</p>
                                     <p className="title-container__tag">horny</p>
@@ -265,8 +265,8 @@ const Music = () => {
                                 src="	https://lastfm.freetls.fastly.net/i/u/300x300/2371a9b178c1fe05fa883651690cffa0.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Mona Lisa</a>
-                                <div className="author_text"><a>j-hope</a></div>
+                                <span>Mona Lisa</span>
+                                <div className="author_text"><span>j-hope</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">loveuhobi</p>
                                     <p className="title-container__tag">song jf the year</p>
@@ -278,8 +278,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/1c1100b20e2eb165f9093a8b6ca5a6ed.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>FAKE LOVE</a>
-                                <div className="author_text"><a>BTS</a></div>
+                                <span>FAKE LOVE</span>
+                                <div className="author_text"><span>BTS</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">bts</p>
                                     <p className="title-container__tag">k-pop</p>
@@ -292,8 +292,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/532466a62215d417cf7e21d70b45514d.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Leave Me Alone</a>
-                                <div className="author_text"><a>Reneé Rapp</a></div>
+                                <span>Leave Me Alone</span>
+                                <div className="author_text"><span>Reneé Rapp</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">my top songs</p>
                                     <p className="title-container__tag">pop</p>
@@ -306,8 +306,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/ba49400a833014018741823543adf8dd.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Who</a>
-                                <div className="author_text"><a>Jimin</a></div>
+                                <span>Who</span>
+                                <div className="author_text"><span>Jimin</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">soty</p>
                                     <p className="title-container__tag">jimin</p>
@@ -320,8 +320,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/76c86b2d36adf00fabbd157d5cc0d697.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Tonight</a>
-                                <div className="author_text"><a>PinkPantheress</a></div>
+                                <span>Tonight</span>
+                                <div className="author_text"><span>PinkPantheress</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">dance-pop</p>
                                     <p className="title-container__tag">bassline</p>
@@ -334,8 +334,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/5b344e792abff0b84e203e5581021d4d.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>like JENNIE</a>
-                                <div className="author_text"><a>Jennie</a></div>
+                                <span>like JENNIE</span>
+                                <div className="author_text"><span>Jennie</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">funk mandelao</p>
                                     <p className="title-container__tag">funk automotivo</p>
@@ -348,8 +348,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/2d69b448d1e61fbe4fe928d6152f8a68.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Stop The Rain (TABLO X RM)</a>
-                                <div className="author_text"><a>Tablo</a></div>
+                                <span>Stop The Rain (TABLO X RM)</span>
+                                <div className="author_text"><span>Tablo</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">rm</p>
                                     <p className="title-container__tag">rap</p>
@@ -362,8 +362,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/20ed6fffe73484e199999d06ff95b410.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Gnarly</a>
-                                <div className="author_text"><a>KATSEYE</a></div>
+                                <span>Gnarly</span>
+                                <div className="author_text"><span>KATSEYE</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">hyperpop</p>
                                     <p className="title-container__tag">deconstructed club</p>
@@ -375,8 +375,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/150993766fe3c42be64b13bd90907e8d.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Winter Ahead (with PARK HYO SHIN)</a>
-                                <div className="author_text"><a>V</a></div>
+                                <span>Winter Ahead (with PARK HYO SHIN)</span>
+                                <div className="author_text"><span>V</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">jazz</p>
                                     <p className="title-container__tag">taetae</p>
@@ -389,8 +389,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/f18b8f5ca083f7f9e86ceed75304e2e5.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>party 4 u</a>
-                                <div className="author_text"><a>Charli xcx</a></div>
+                                <span>party 4 u</span>
+                                <div className="author_text"><span>Charli xcx</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">electropop</p>
                                     <p className="title-container__tag">hyperpop</p>
@@ -403,8 +403,8 @@ const Music = () => {
                                 src="https://lastfm.freetls.fastly.net/i/u/300x300/4128a6eb29f94943c9d206c08e625904.jpg" alt=""
                                 className="recently-played__item-img" />
                             <div className="recently-played-item__not-image-part playlist-item-primary-text">
-                                <a>Nope your too late i already died</a>
-                                <div className="author_text"><a>wifiskeleton</a></div>
+                                <span>Nope your too late i already died</span>
+                                <div className="author_text"><span>wifiskeleton</span></div>
                                 <div className="title-container__tags">
                                     <p className="title-container__tag">alternative rock</p>
                                     <p className="title-container__tag">indie rock</p>

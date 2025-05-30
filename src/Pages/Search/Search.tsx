@@ -70,7 +70,7 @@ const Search = () => {
                                         className="clear-button" 
                                         onClick={handleClear}
                                     >
-                                        ×
+                                        <i className="fa fa-close"></i>
                                     </button>
                                 )}
                             </form>

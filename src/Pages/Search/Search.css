@@ -29,7 +29,15 @@
     width: 55px;
     height: 42px;
     border: none;
-    background: transparent;
     border-radius: 0 5px 5px 0;
     cursor: pointer;
+}
+
+.fa {
+    height: 32px;
+    width: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
 }

@@ -9,28 +9,28 @@ const Footer = () => {
                         <div className="footer-top-col">
                             <ul className="footer-links">
                                 <h2 className="footer-heading">Company</h2>
-                                <li><a href="/about">About Last.fm</a></li>
-                                <li><a href="/about/contact">Contact Us</a></li>
-                                <li><a href="/about/jobs">Jobs</a></li>
+                                <li><button>About Last.fm</button></li>
+                                <li><button>Contact Us</button></li>
+                                <li><button>Jobs</button></li>
                             </ul>
                         </div>
 
                         <div className="footer-top-col">
                             <ul className="footer-links">
                                 <h2 className="footer-heading">Help</h2>
-                                <li><a href="/about/trackmymusic">Track My Music</a></li>
-                                <li><a href="https://support.last.fm/" target="_BLANK">Community Support</a></li>
-                                <li><a href="/help/guidelines">Community Guidelines</a></li>
-                                <li><a href="/help/faq" target="_BLANK">Help</a></li>
+                                <li><button>Track My Music</button></li>
+                                <li><a href="https://support.last.fm/">Community Support</a></li>
+                                <li><button>Community Guidelines</button></li>
+                                <li><button>Help</button></li>
                             </ul>
                         </div>
 
                         <div className="footer-top-col">
                             <ul className="footer-links">
                                 <h2 className="footer-heading">Goodies</h2>
-                                <li><a href="/about/trackmymusic">Download Scrobbler</a></li>
-                                <li><a href="/api">Developer API</a></li>
-                                <li><a href="/music/+free-music-downloads">Free Music Downloads</a></li>
+                                <li><button>Download Scrobbler</button></li>
+                                <li><button>Developer API</button></li>
+                                <li><button>Free Music Downloads</button></li>
                                 <li><a href="https://store.last.fm">Merchandise</a></li>
                             </ul>
                         </div>
@@ -38,19 +38,19 @@ const Footer = () => {
                         <div className="footer-top-col">
                             <ul className="footer-links">
                                 <h2 className="footer-heading">Account</h2>
-                                <li><a href="/inbox">Inbox</a></li>
-                                <li><a href="/settings">Settings</a></li>
-                                <li><a href="/pro">Last.fm Pro</a></li>
+                                <li><button>Inbox</button></li>
+                                <li><button>Settings</button></li>
+                                <li><button>Last.fm Pro</button></li>
                             </ul>
                         </div>
 
                         <div className="footer-top-col">
                             <ul className="footer-links">
                                 <h2 className="footer-heading">Follow Us</h2>
-                                <li><a target="_blank" href="https://www.facebook.com/lastfm">Facebook</a></li>
-                                <li><a target="_blank" href="https://twitter.com/lastfm">Twitter</a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/last_fm">Instagram</a></li>
-                                <li><a target="_blank" href="https://www.youtube.com/user/lastfm">YouTube</a></li>
+                                <li><a href="https://www.facebook.com/lastfm">Facebook</a></li>
+                                <li><a href="https://twitter.com/lastfm">Twitter</a></li>
+                                <li><a href="https://www.instagram.com/last_fm">Instagram</a></li>
+                                <li><a href="https://www.youtube.com/user/lastfm">YouTube</a></li>
                             </ul>
                         </div>
                     </div>
@@ -105,12 +105,12 @@ const Footer = () => {
                                 <ul>
                                     <li className="footer-legal-item"><a rel="nofollow" href="http://www.cbsinteractive.com/">CBS
                                         Interactive</a> © 2022 <span>Last.fm</span> Ltd. All rights reserved</li>
-                                    <li className="footer-legal-item"><a href="/legal/terms">Terms of Use</a></li>
-                                    <li className="footer-legal-item"><a href="/legal/privacy">Privacy Policy</a></li>
-                                    <li className="footer-legal-item"><a href="/legal">Legal Policies</a></li>
-                                    <li className="footer-legal-item"><a href="/legal/cookies">Cookies Policy</a></li>
-                                    <li className="footer-legal-item"><a className="ot-sdk-show-settings">Cookie Information</a></li>
-                                    <li className="footer-legal-item"><a target="_blank" href="https://careers.viacomcbs.com/">Jobs at
+                                    <li className="footer-legal-item"><button>Terms of Use</button></li>
+                                    <li className="footer-legal-item"><button>Privacy Policy</button></li>
+                                    <li className="footer-legal-item"><button>Legal Policies</button></li>
+                                    <li className="footer-legal-item"><button>Cookies Policy</button></li>
+                                    <li className="footer-legal-item"><button className="ot-sdk-show-settings">Cookie Information</button></li>
+                                    <li className="footer-legal-item"><a href="https://careers.viacomcbs.com/">Jobs at
                                         ViacomCBS</a></li>
                                     <li className="footer-legal-item"><a rel="nofollow" href="http://www.last.fm">Last.fm Music</a></li>
                                 </ul>

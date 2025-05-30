@@ -27,6 +27,20 @@
 
 }
 
+.footer-top-col .footer-links li button {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Barlow', "Open Sans";
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
 .footer-heading {
     color: #666;
     font-size: 12px;
