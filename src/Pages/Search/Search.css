@@ -1,0 +1,43 @@
+.main-view__sections {
+    min-height: 100vh;
+    justify-content: start;
+}
+
+.search-button {
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 0;
+    margin-left: 8px;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+.search_form {
+    display: flex;
+    flex-direction: row;
+}
+
+.clear-button {
+    position: absolute;
+    top: 0;
+    right: 50px;
+    width: 55px;
+    height: 42px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.fa {
+    height: 32px;
+    width: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
